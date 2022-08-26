@@ -1,0 +1,30 @@
+h1{
+	font-family: Papyrus;
+	text-align: center;
+    color: #4b5320
+}
+html{
+	background: linear-gradient(lightgrey, dimgrey) no-repeat;
+	background-size: cover;
+  	height:110%;
+	overflow-y: scroll;
+}
+div{
+	text-align: center;
+}
+.topnav {
+	overflow: hidden;
+  }
+.topnav a {
+	float: center;
+	color: #333;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: Courier New;
+  }
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+  }
